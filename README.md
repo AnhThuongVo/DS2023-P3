@@ -1,8 +1,8 @@
 ## Data Structures Programming Assignment 3 
-### due Friday 03/25 @5pm
-#### accepted as on time until 03/27 @11:59pm
+### due 11/03
+#### accepted as on time until 11/03 @11:59pm
 
-This project asks you to use the priority queue you wrote for the 03/14 worksheet in a *discrete event simulation*. The simulation models a 911 dispatch in a small police department. During the simulation, `Incident`s will be reported to 911 and police units will be dispatched to deal with those events. What `Incident`s to deal with depends on their priority, which in turn depends on their type: murders take priority over robberies, which take priority over traffic collisions, which take priority over wellness checks.
+This project asks you to use the priority queue you wrote in a *discrete event simulation*. The simulation models a 911 dispatch in a small police department. During the simulation, `Incident`s will be reported to 911 and police units will be dispatched to deal with those events. What `Incident`s to deal with depends on their priority, which in turn depends on their type: murders take priority over robberies, which take priority over traffic collisions, which take priority over wellness checks.
 
 Your min-heap will be used in two different ways for this simulation:
 
